@@ -1,0 +1,2 @@
+# Design-of-Novel-Multilevel-Inverter-for-Rural-Electrification-Water-Pumping
+This project develops a cost-effective multilevel inverter using eight switches and three DC sources for rural electrification and solar-powered water pumping. MATLAB/Simulink simulation and hardware testing evaluate seven-level AC output, waveform quality, and performance with R and RL loads, supporting efficient and sustainable energy conversion.
